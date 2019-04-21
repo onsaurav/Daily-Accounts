@@ -1,0 +1,72 @@
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\Task\Accounts\BLL\bin\Debug\BLL.dll
+E:\Practice\Task\Accounts\BLL\bin\Debug\BLL.pdb
+E:\Practice\Task\Accounts\BLL\bin\Debug\Common.dll
+E:\Practice\Task\Accounts\BLL\bin\Debug\DAL.dll
+E:\Practice\Task\Accounts\BLL\bin\Debug\Common.pdb
+E:\Practice\Task\Accounts\BLL\bin\Debug\DAL.pdb
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\BLL.dll
+E:\Practice\Task\Accounts\BLL\obj\x86\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\DAL.dll
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts\BLL\bin\Debug\DAL.pdb
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts\BLL\obj\x86\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\DAL.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\bin\Debug\DAL.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\BLL\obj\x86\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\BLL.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\DAL.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\bin\Debug\DAL.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\BLL.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\BLL\obj\x86\Debug\BLL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\BLL.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\BLL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\DAL.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\bin\Debug\DAL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\BLL.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\BLL\obj\x86\Debug\BLL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\BLL.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\BLL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\DAL.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\bin\Debug\DAL.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\BLL.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\BLL\obj\x86\Debug\BLL.pdb

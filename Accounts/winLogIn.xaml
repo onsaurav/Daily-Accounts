@@ -1,0 +1,59 @@
+﻿<Window x:Class="Accounts.LogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Log In" Height="425" Width="325" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" 
+        AllowsTransparency="True" WindowStyle='None' Background="Transparent" Loaded="Window_Loaded" Icon="/Accounts;component/images/agt_login.ico">    
+    <Border CornerRadius="10,10,10,10" Margin="0,0,0,0" BorderBrush="Gray" BorderThickness ="0">
+        <Border.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFD1C7C7" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+                <GradientStop Color="#FFE5DFDF" Offset="1" />
+                <GradientStop Color="#FFF0EDED" Offset="1" />
+                <GradientStop Color="#FFEEEAEA" Offset="1" />
+                <GradientStop Color="#FFEEEAEA" />
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid Background="Transparent" >            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25" />
+                <RowDefinition Height="65" />
+                <RowDefinition Height="65" />
+                <RowDefinition Height="65" />
+                <RowDefinition Height="65" />
+                <RowDefinition Height="65" />
+                <RowDefinition Height="65" />
+            </Grid.RowDefinitions>
+            <DockPanel Grid.Row="1">
+                <Image Name="image1" Stretch="Fill" Width="60" Source="/Accounts;component/images/agt_login.ico" Margin="20,0,0,0" Height="60" VerticalAlignment="Top" />
+                <Label Content="Log In (....... .......)" Height="41" HorizontalAlignment="Left" Margin="5,0,0,0" Name="label1" VerticalAlignment="Bottom" Width="250" FontSize="24" FontWeight="Bold" FontStyle="Normal" FontFamily="Monotype Corsiva" Foreground="SteelBlue" />
+            </DockPanel>
+            
+            <StackPanel Grid.Row="2" Margin="0,10,0,0">
+                <Label Margin="18,0,20,0" Content="Company Name" FontWeight ="Bold" Height="25" HorizontalAlignment="Stretch" Name="lblCompany" Foreground="SteelBlue" />
+                <ComboBox Margin="20,0,20,0" Height="25" Name="cboCompany" HorizontalAlignment="Stretch" BorderBrush="SteelBlue" VerticalAlignment="Top" DataContext="{Binding}" SelectedValuePath="CompanyId" DisplayMemberPath="Name" KeyDown="cboCompany_KeyDown" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Margin="0,0,0,0">
+                <Label Margin="18,0,20,0" Content="Location Name" FontWeight ="Bold" Height="25" HorizontalAlignment="Stretch" Name="lblLocation" Foreground="SteelBlue" />
+                <ComboBox Margin="20,0,20,0" Height="25" Name="cboLocation" HorizontalAlignment="Stretch" BorderBrush="SteelBlue" VerticalAlignment="Top" DataContext="{Binding}" SelectedValuePath="LocationId" DisplayMemberPath="Name" KeyDown="cboLocation_KeyDown" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="4" Margin="0,0,0,0">
+                <Label Margin="18,0,20,0" Content="User Name" FontWeight ="Bold" Height="25" HorizontalAlignment="Stretch" Name="lblUserName" Foreground="SteelBlue" />
+                <TextBox Margin="20,0,20,0" Height="25" Name="txtUserName" VerticalAlignment="Top" BorderBrush="SteelBlue" HorizontalAlignment="Stretch" KeyDown="txtUserName_KeyDown" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="5" Margin="0,0,0,0">
+                <Label Margin="18,0,20,0" Content="Password" FontWeight ="Bold" Height="25" HorizontalAlignment="Stretch" Name="lblPassword" Foreground="SteelBlue" />
+                <PasswordBox Margin="20,0,20,0" Height="25" Name="txtPassword" VerticalAlignment="Top" BorderBrush="SteelBlue" HorizontalAlignment="Stretch" KeyDown="txtPassword_KeyDown"/>
+            </StackPanel>
+
+            <DockPanel Grid.Row="6" Margin="0,0,20,0" HorizontalAlignment="Right" >
+                <Button Content="Log In" Height="25" Margin="0,0,0,0" HorizontalAlignment="Right"  Name="btnLogIn" VerticalAlignment="Center" Width="85" Click="btnLogIn_Click" />
+                <Button Content="Close" Height="25" Margin="5,0,0,0" HorizontalAlignment="Right"  Name="btnClose" VerticalAlignment="Center" Width="85" Click="btnClose_Click" />
+            </DockPanel>
+
+        </Grid>
+    </Border>    
+</Window>

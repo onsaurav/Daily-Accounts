@@ -1,0 +1,72 @@
+E:\Practice\Task\Accounts\Common\bin\Debug\Common.dll
+E:\Practice\Task\Accounts\Common\bin\Debug\Common.pdb
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\ShowError.baml
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\ShowError.g.cs
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\Common.g.resources
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\Common.dll
+E:\Practice\Task\Accounts\Common\obj\x86\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts\Common\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts\Common\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\ShowError.baml
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\ShowError.g.cs
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\Common.g.resources
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts\Common\obj\x86\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\ShowError.baml
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\ShowError.g.cs
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\Common.g.resources
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts Apr-30-2012\Common\obj\x86\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\bin\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\bin\Debug\Common.pdb
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\ShowError.baml
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\ShowError.g.cs
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\Common.g.resources
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\Common.dll
+E:\Practice\MySoft\Task\Accounts May-02-2012\Common\obj\x86\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\bin\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\bin\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\ShowError.baml
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\ShowError.g.cs
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\Common.g.resources
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-03-2012\Common\obj\x86\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\bin\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\bin\Debug\Common.pdb
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\ShowError.baml
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\ShowError.g.cs
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\Common_MarkupCompile.cache
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\Common.g.resources
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\Common.Properties.Resources.resources
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\Common.dll
+E:\My Soft\WPF\Accounts\Accounts May-04-2012\Common\obj\x86\Debug\Common.pdb
